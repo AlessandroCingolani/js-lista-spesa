@@ -23,3 +23,13 @@ while (counter < listaSpesa.length){
   counter++;
   console.log(item);
 }
+
+
+// esegui almeno una volta quello che è nel do e ripeti fino a quando la condizione while è vera
+
+// do {
+//   const item = listaSpesa[counter];
+//   output.innerHTML += `<li>${item}</li>`
+//   counter++;
+//   console.log(item);
+// }while(counter < listaSpesa.length);
